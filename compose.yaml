@@ -1,0 +1,11 @@
+services:
+  fossflow:
+    image: stnsmith/fossflow:latest
+    container_name: designer
+    ports:
+      - "8080:80"
+    volumes:
+      - ./statics/composition:/data/diagrams:Z
+    environment:
+      - ENABLE_SERVER_STORAGE=true
+    restart: unless-stopped
