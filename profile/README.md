@@ -34,7 +34,7 @@ Tennis Intelligence Platform solves this by processing every point as an event, 
 
 ### Level II (C4)
 
-- [ ] TODO Desing lvl two the platform architecture
+- [ ] TODO: Design Level II (C4) platform architecture
 
 ---
 
