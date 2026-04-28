@@ -1,6 +1,6 @@
 # Tennis Intelligence Platform
 
-> Real-time tennis analytics powered by event-driven microservices, Apache Kafka, and cloud-native infrastructure on Azure or (multi-cloud)
+> Real-time tennis analytics powered by event-driven micro-services, Apache Kafka, and cloud-native infrastructure on Azure or (multi-cloud)
 
 ---
 
@@ -30,7 +30,7 @@ Tennis Intelligence Platform solves this by processing every point as an event, 
 
 ### Level I (C4)
 
-![Diagram architecture C4 level 1](./statics/frame/lvl-1-v1.0.svg)
+![Diagram architecture C4 level 1](../statics/frame/lvl-1-v1.0.svg)
 
 ### Level II (C4)
 
